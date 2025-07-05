@@ -1,4 +1,4 @@
-const AI_API_KEY = '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';
+const AI_API_KEY = '';
 
 export const testAPIKey = async () => {
   console.log('Testing API key...');
