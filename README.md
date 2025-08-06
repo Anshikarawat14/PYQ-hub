@@ -197,4 +197,4 @@ If you encounter any issues:
 
 ---
 
-**Made with ❤️ for students worldwide**
+**Made with ❤️ by Anshika Rawat**
